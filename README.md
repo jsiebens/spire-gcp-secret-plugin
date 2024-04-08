@@ -1,0 +1,1 @@
+# Spire GCP Secrets Manager Plugin
